@@ -1,4 +1,5 @@
-# Maintainer: Bernhard Landauer <oberon@manjaro.org>
+# Maintainer:
+# Contributor: Bernhard Landauer <bernhard@manjaro.org>
 
 pkgname=conky-i3
 pkgver=20210907
